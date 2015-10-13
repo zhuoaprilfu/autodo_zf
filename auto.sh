@@ -1,0 +1,1 @@
+pwd > ../list.txt
