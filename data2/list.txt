@@ -1,0 +1,13 @@
+/home/swc/Desktop/test
+.
+..
+auto.sh
+.git
+chromium-browser.desktop
+data
+firefox.desktop
+list.txt
+lxterminal.desktop
+shell-novice-data.zip
+test
+user_info
